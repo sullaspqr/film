@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\vizsgafront.exe
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\appsettings.Development.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\appsettings.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\package-lock.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\vizsgafront.deps.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\vizsgafront.runtimeconfig.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\vizsgafront.pdb
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

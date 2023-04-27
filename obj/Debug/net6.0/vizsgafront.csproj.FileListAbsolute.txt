@@ -1,0 +1,163 @@
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\vizsgafront.exe
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\vizsgafront.deps.json
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\vizsgafront.runtimeconfig.json
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\vizsgafront.pdb
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\2-14-X\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfo.cs
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.vizsgafront.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.build.vizsgafront.props
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vizsgafront.props
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vizsgafront.props
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\scopedcss\bundle\vizsgafront.styles.css
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CopyComplete
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\refint\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.pdb
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\vizsgafront.genruntimeconfig.cache
+C:\Users\Admin\Documents\2-14-X\vizsgafront\obj\Debug\net6.0\ref\vizsgafront.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\appsettings.Development.json
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\appsettings.json
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\vizsgafront.exe
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\vizsgafront.deps.json
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\vizsgafront.runtimeconfig.json
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\vizsgafront.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\vizsgafront.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\Microsoft.OpenApi.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.GeneratedMSBuildEditorConfig.editorconfig
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfoInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfo.cs
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cs
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cache
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.vizsgafront.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.build.vizsgafront.props
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vizsgafront.props
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vizsgafront.props
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\staticwebassets.pack.json
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\staticwebassets.build.json
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\staticwebassets.development.json
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\scopedcss\bundle\vizsgafront.styles.css
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CopyComplete
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\refint\vizsgafront.dll
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\vizsgafront.genruntimeconfig.cache
+I:\Szoftverfejlesztés\Kandós cuccok\Frontend - Németh Bence\2023. 03. 16. - Mailben kapott feladat\vizsgafront\obj\Debug\net6.0\ref\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\appsettings.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\package-lock.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\vizsgafront.exe
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\vizsgafront.deps.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\vizsgafront.runtimeconfig.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\vizsgafront.pdb
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.AssemblyReference.cache
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfoInputs.cache
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfo.cs
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CoreCompileInputs.cache
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.vizsgafront.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.build.vizsgafront.props
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vizsgafront.props
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vizsgafront.props
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\scopedcss\bundle\vizsgafront.styles.css
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CopyComplete
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\refint\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.pdb
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\vizsgafront.genruntimeconfig.cache
+C:\Users\gratt\OneDrive\Asztali gép\vizsgafront\obj\Debug\net6.0\ref\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\appsettings.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\package-lock.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\vizsgafront.exe
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\vizsgafront.deps.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\vizsgafront.runtimeconfig.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\vizsgafront.pdb
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.AssemblyReference.cache
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfoInputs.cache
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfo.cs
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CoreCompileInputs.cache
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.vizsgafront.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.build.vizsgafront.props
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vizsgafront.props
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vizsgafront.props
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\scopedcss\bundle\vizsgafront.styles.css
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CopyComplete
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\refint\vizsgafront.dll
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.pdb
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\vizsgafront.genruntimeconfig.cache
+C:\Users\gratt\OneDrive\Asztali gép\Vizsgafrontend\vizsgafront\obj\Debug\net6.0\ref\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\package-lock.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\vizsgafront.exe
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\vizsgafront.deps.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\vizsgafront.runtimeconfig.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\vizsgafront.pdb
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.AssemblyInfo.cs
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.vizsgafront.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.build.vizsgafront.props
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.vizsgafront.props
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.vizsgafront.props
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\scopedcss\bundle\vizsgafront.styles.css
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.csproj.CopyComplete
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\refint\vizsgafront.dll
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.pdb
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\vizsgafront.genruntimeconfig.cache
+C:\Users\Admin\Documents\2-14-X\Vizsgafrontend-master\vizsgafront\obj\Debug\net6.0\ref\vizsgafront.dll
